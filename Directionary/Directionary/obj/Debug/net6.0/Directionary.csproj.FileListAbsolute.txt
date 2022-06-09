@@ -13,3 +13,18 @@ F:\GitHub\DirectionariesBBF\Directionary\Directionary\obj\Debug\net6.0\refint\Di
 F:\GitHub\DirectionariesBBF\Directionary\Directionary\obj\Debug\net6.0\Directionary.pdb
 F:\GitHub\DirectionariesBBF\Directionary\Directionary\obj\Debug\net6.0\Directionary.genruntimeconfig.cache
 F:\GitHub\DirectionariesBBF\Directionary\Directionary\obj\Debug\net6.0\ref\Directionary.dll
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\Directionaries\Directionary\Directionary\bin\Debug\net6.0\Directionary.exe
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\Directionaries\Directionary\Directionary\bin\Debug\net6.0\Directionary.deps.json
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\Directionaries\Directionary\Directionary\bin\Debug\net6.0\Directionary.runtimeconfig.json
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\Directionaries\Directionary\Directionary\bin\Debug\net6.0\Directionary.dll
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\Directionaries\Directionary\Directionary\bin\Debug\net6.0\Directionary.pdb
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\Directionaries\Directionary\Directionary\obj\Debug\net6.0\Directionary.csproj.AssemblyReference.cache
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\Directionaries\Directionary\Directionary\obj\Debug\net6.0\Directionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\Directionaries\Directionary\Directionary\obj\Debug\net6.0\Directionary.AssemblyInfoInputs.cache
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\Directionaries\Directionary\Directionary\obj\Debug\net6.0\Directionary.AssemblyInfo.cs
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\Directionaries\Directionary\Directionary\obj\Debug\net6.0\Directionary.csproj.CoreCompileInputs.cache
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\Directionaries\Directionary\Directionary\obj\Debug\net6.0\Directionary.dll
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\Directionaries\Directionary\Directionary\obj\Debug\net6.0\refint\Directionary.dll
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\Directionaries\Directionary\Directionary\obj\Debug\net6.0\Directionary.pdb
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\Directionaries\Directionary\Directionary\obj\Debug\net6.0\Directionary.genruntimeconfig.cache
+C:\Users\HP Victus\Documents\GitHub\Contain All (Github)\Directionaries\Directionary\Directionary\obj\Debug\net6.0\ref\Directionary.dll

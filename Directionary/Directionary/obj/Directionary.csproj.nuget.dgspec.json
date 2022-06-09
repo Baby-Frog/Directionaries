@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\GitHub\\DirectionariesBBF\\Directionary\\Directionary\\Directionary.csproj": {}
+    "C:\\Users\\HP Victus\\Documents\\GitHub\\Contain All (Github)\\Directionaries\\Directionary\\Directionary\\Directionary.csproj": {}
   },
   "projects": {
-    "F:\\GitHub\\DirectionariesBBF\\Directionary\\Directionary\\Directionary.csproj": {
+    "C:\\Users\\HP Victus\\Documents\\GitHub\\Contain All (Github)\\Directionaries\\Directionary\\Directionary\\Directionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\GitHub\\DirectionariesBBF\\Directionary\\Directionary\\Directionary.csproj",
+        "projectUniqueName": "C:\\Users\\HP Victus\\Documents\\GitHub\\Contain All (Github)\\Directionaries\\Directionary\\Directionary\\Directionary.csproj",
         "projectName": "Directionary",
-        "projectPath": "F:\\GitHub\\DirectionariesBBF\\Directionary\\Directionary\\Directionary.csproj",
-        "packagesPath": "C:\\Users\\vietn\\.nuget\\packages\\",
-        "outputPath": "F:\\GitHub\\DirectionariesBBF\\Directionary\\Directionary\\obj\\",
+        "projectPath": "C:\\Users\\HP Victus\\Documents\\GitHub\\Contain All (Github)\\Directionaries\\Directionary\\Directionary\\Directionary.csproj",
+        "packagesPath": "C:\\Users\\HP Victus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP Victus\\Documents\\GitHub\\Contain All (Github)\\Directionaries\\Directionary\\Directionary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vietn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP Victus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

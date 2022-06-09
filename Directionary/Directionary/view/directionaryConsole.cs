@@ -5,14 +5,14 @@ namespace view
 {
     public class directionaryConsole
     {
-        IDictionary dictionary = new Hashtable();
+        IDictionary Dictionary = new Hashtable();
 
         public static void Main(string[] args)
         {
             directionaryConsole console=new directionaryConsole();
-            console.menu();
+            console.Menu();
         }
-        public void menu()
+        public void Menu()
         {
             while (true) { 
             Console.WriteLine("Enter your choice:");
@@ -32,6 +32,7 @@ namespace view
                             Add();
                             break;
                         case 2:
+                            Update();
                             break;
                         case 3:
                             Delete();
@@ -50,59 +51,54 @@ namespace view
                 catch(Exception e) { Console.WriteLine(e); }
             }
         }
-        public void Add()
+        public void Add() 
         {
             Console.WriteLine("Enter key:");
             string keys=Console.ReadLine();
             Console.WriteLine("Enter value:");
             string values=Console.ReadLine();
-            if (keys.Equals(dictionary.Keys))
-            {
-                Console.WriteLine("Fail");
-            }
-            else
-            {
-                dictionary.Add(keys, values);
-                Console.WriteLine("Success");
-            }
-
+            Dictionary.Add(keys, values);
+            Console.WriteLine("Success");
         }
         public void Search()
         {
             Console.WriteLine("Enter Dictionary:");
             string keys = Console.ReadLine();
 
-           for(int i= 0; i < dictionary.Count; i++)
+            if (Dictionary.Contains(keys))
             {
-                if (keys.Equals(dictionary.Keys))
-                {
-                    Console.WriteLine(dictionary.Values);
-                }
+                Console.WriteLine("There is a word named: " + keys + " in the Dictionary");
+            }
+            else
+            {
+                Console.WriteLine("That word does not exist");
             }
         }
         public void Delete()
         {
             Console.WriteLine("Enter Dictionary:");
             string keys = Console.ReadLine();
-            foreach (string key in dictionary.Keys)
+            if (Dictionary.Contains(keys))
             {
-                if (keys.Equals(key))
-                {
-                    dictionary.Remove(keys);
-                    Console.WriteLine("Delete success");
-                }
+                Dictionary.Remove(keys);
+                Console.WriteLine("Deleted successfully");
+            }
+            else
+            {
+                Console.WriteLine("Deleted unsucessfully");
             }
         }
         public void Update()
         {
             Console.WriteLine("Enter Key:");
             string keys= Console.ReadLine();
-            Console.WriteLine("Enter value:");
-            string value=Console.ReadLine();
-            if (keys.Equals(dictionary.Keys))
+            
+            if (Dictionary.Contains(keys))
             {
-                dictionary[keys] = value;
-
+                Console.WriteLine("Enter value:");
+                string value = Console.ReadLine();
+                Dictionary[value] = value;
+                Console.WriteLine("Updated successfully");
             }
             else
             {
