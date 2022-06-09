@@ -9,7 +9,7 @@ namespace view
         {
             directionaryController directionaryCtrl = new directionaryController();
             Console.WriteLine("Enter new directionary:");
-            ArrayList<directionary> directions=    Console.ReadLine();
+            Object directions=    Console.ReadLine();
             directionaryCtrl.AddDirect(directions);
         }
     }

@@ -1,0 +1,15 @@
+F:\GitHub\DirectionariesBBF\Directionary\Directionary\bin\Debug\net6.0\Directionary.exe
+F:\GitHub\DirectionariesBBF\Directionary\Directionary\bin\Debug\net6.0\Directionary.deps.json
+F:\GitHub\DirectionariesBBF\Directionary\Directionary\bin\Debug\net6.0\Directionary.runtimeconfig.json
+F:\GitHub\DirectionariesBBF\Directionary\Directionary\bin\Debug\net6.0\Directionary.dll
+F:\GitHub\DirectionariesBBF\Directionary\Directionary\bin\Debug\net6.0\Directionary.pdb
+F:\GitHub\DirectionariesBBF\Directionary\Directionary\obj\Debug\net6.0\Directionary.csproj.AssemblyReference.cache
+F:\GitHub\DirectionariesBBF\Directionary\Directionary\obj\Debug\net6.0\Directionary.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\DirectionariesBBF\Directionary\Directionary\obj\Debug\net6.0\Directionary.AssemblyInfoInputs.cache
+F:\GitHub\DirectionariesBBF\Directionary\Directionary\obj\Debug\net6.0\Directionary.AssemblyInfo.cs
+F:\GitHub\DirectionariesBBF\Directionary\Directionary\obj\Debug\net6.0\Directionary.csproj.CoreCompileInputs.cache
+F:\GitHub\DirectionariesBBF\Directionary\Directionary\obj\Debug\net6.0\Directionary.dll
+F:\GitHub\DirectionariesBBF\Directionary\Directionary\obj\Debug\net6.0\refint\Directionary.dll
+F:\GitHub\DirectionariesBBF\Directionary\Directionary\obj\Debug\net6.0\Directionary.pdb
+F:\GitHub\DirectionariesBBF\Directionary\Directionary\obj\Debug\net6.0\Directionary.genruntimeconfig.cache
+F:\GitHub\DirectionariesBBF\Directionary\Directionary\obj\Debug\net6.0\ref\Directionary.dll

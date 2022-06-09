@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\controller",
+    "\\entity",
+    "\\services",
+    "\\view"
   ],
-  "SelectedNode": "\\F:\\GitHub\\DirectionariesBBF",
+  "SelectedNode": "\\view\\directionaryConsole.cs",
   "PreviewInSolutionExplorer": false
 }
