@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\entity",
+    "\\services",
+    "\\view"
   ],
-  "SelectedNode": "\\F:\\GitHub\\DirectionariesBBF",
+  "SelectedNode": "\\controller",
   "PreviewInSolutionExplorer": false
 }
