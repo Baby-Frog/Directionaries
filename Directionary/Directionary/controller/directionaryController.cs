@@ -5,10 +5,6 @@ using System.Collections;
 {
     public class directionaryController
     {
-        public ArrayList AddDirect(Object direction)
-        {
-            AddDirectServices addDirect = new AddDirectServices();
-            return addDirect.AddDirect(direction);
-        }
+       
     }
 }
